@@ -1,6 +1,6 @@
 {
-  "name": "shorthandjs",
-  "version": "1.0.1",
+  "name": "@roshangrewal/shorthandjs",
+  "version": "1.0.2",
   "description": "some shortcuts",
   "main": "index.js",
   "scripts": {
