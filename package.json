@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Roshan Grewal",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshangrewal/shorthandjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roshangrewal/shorthandjs/issues"
+  },
+  "homepage": "https://github.com/roshangrewal/shorthandjs#readme"
 }
